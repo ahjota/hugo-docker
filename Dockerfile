@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.12.3
 
 # Pass VERSION on build time
 ARG VERSION="unknown"
